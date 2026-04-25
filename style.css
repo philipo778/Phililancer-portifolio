@@ -305,7 +305,7 @@ section p {
     opacity: 1;
 }
 
-button {
+.project-card a button, form button {
     color: var(--brand-cyan);
     width: 70px;
     padding: 5px;
@@ -318,7 +318,7 @@ button {
 }
 
 button:hover {
-    box-shadow: 2px 2px 0 3px  var(--brand-cyan);
+    box-shadow: 2px 2px 0 2px  var(--brand-cyan);
     font-weight: 500;
     font-size: 22px;
 }
