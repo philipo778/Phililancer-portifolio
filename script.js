@@ -1,3 +1,5 @@
+
+// YText animation auto typing
 const status = document.getElementById('status');
 
 const statuses = ['Phililancer', 'Software Engineer', 'Graphics Designer', 'Content Creator', 'CEO, Phililancer Tech Lab'];
